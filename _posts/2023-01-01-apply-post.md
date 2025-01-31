@@ -2,7 +2,7 @@
 layout: post
 title: راه‌اندازی LCD کاراکتری با STM32
 subtitle: 
-banner: https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlNV9pbGx1c3RyYXRpb25fb2ZfZGFya19ibHVlX3NreV9fbWluaW1hbF93YXhfY3JheV82MTE0NDU3Zi0yZTg3LTQ2ZjctYmQ0Ny01NzBhZDMxMDYyMDZfMS5qcGc.jpg
+banner: https://images.squarespace-cdn.com/content/v1/5a073439a9db09c5a37caba4/1547821227981-DAIH2VAFK7RDRNUPLEJU/Vanessa+Piche+Surf+Sensation+.jpg?format=2500w
 tags: STM32 فنی‌جات
 ---
 
