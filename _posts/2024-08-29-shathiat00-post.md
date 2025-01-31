@@ -2,7 +2,7 @@
 layout: post
 title: نسبت انگاری و جهان بی نسبت 
 subtitle: 
-banner: \assets\images\Post_Images\000\pic0000.png
+banner: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Caspar_David_Friedrich_016.jpg/2560px-Caspar_David_Friedrich_016.jpg
 tags: شطحیات
 ---
 
@@ -19,7 +19,7 @@ tags: شطحیات
 
 
 
-[این مقاله را در ویرگول نیز می‌توانید بخوانید!](https://vrgl.ir/7iGAt)
+
 
 
 
